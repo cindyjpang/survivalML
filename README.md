@@ -1,5 +1,5 @@
 # survivalML
-Tutorials for survival analysis using Machine Learning Methods
+Tutorials for survival analysis using Machine Learning Methods  
 
 # Installation Guide
 
@@ -10,8 +10,11 @@ This project requires **Python ≥ 3.10** and the following packages:
 * `matplotlib`
 * `scikit-learn` (imported as `sklearn`)
 * `scikit-survival` (imported as `sksurv`)
+    Documentation & Installation: https://scikit-survival.readthedocs.io/en/stable/index.html
 * `torch` (PyTorch)
-* `pycox`
+    Documentation & Installation: https://pytorch.org/get-started/locally/
+* `pycox`  
+    Documentation & Installation: https://github.com/havakv/pycox
 
 > **Note:** `random` is part of Python’s standard library and does NOT need to be installed.
 
